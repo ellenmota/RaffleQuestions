@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3BF5B52B32D5312F90BDE245537F47305E7900C6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3BF5B52B32D5312F90BDE245537F47305E7900C6" : 9223372036854775807,
+    "21A40A5B2675636BBFD619F0CF929E90921FE379" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7DBE307B-D3DD-4EE7-8F5F-86A175A4B16F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3BF5B52B32D5312F90BDE245537F47305E7900C6" : "RaffleQuestions\/",
+    "21A40A5B2675636BBFD619F0CF929E90921FE379" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Raffle Question",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Raffle Question\/Raffle Question.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ellenmota\/Swift3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21A40A5B2675636BBFD619F0CF929E90921FE379"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ellenmota\/RaffleQuestions.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3BF5B52B32D5312F90BDE245537F47305E7900C6"
+    }
+  ]
+}
